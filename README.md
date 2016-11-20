@@ -1,3 +1,1 @@
-# hello_git
-test.hello_git repository
-Adding changes to the gitfile
+Developing the test_git repository
